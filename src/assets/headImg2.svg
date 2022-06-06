@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Group_353" transform="translate(-482 -900)">
+    <rect id="Rectangle_338" width="60" height="60" rx="10" transform="translate(482 900)" fill="#29268c" opacity="0.1" style="isolation: isolate"></rect>
+    <g id="Group_322" transform="translate(472 890)">
+      <path id="Path_118" d="M28.894,45.007h-.413a2.324,2.324,0,0,1-2.322-2.213l-.7-14.824a2.325,2.325,0,0,1,2.322-2.434H29.6a2.323,2.323,0,0,1,2.321,2.434l-.7,14.824A2.322,2.322,0,0,1,28.894,45.007Z" fill="#d92b5a"></path>
+      <circle id="Ellipse_55" cx="3.345" cy="3.345" r="3.345" transform="translate(25.342 47.774)" fill="#d92b5a"></circle>
+      <line id="Line_41" x2="16.266" transform="translate(38.392 26.808)" fill="none" stroke="#29268c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"></line>
+      <line id="Line_42" x2="16.266" transform="translate(38.392 33.404)" fill="none" stroke="#29268c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"></line>
+      <line id="Line_43" x2="16.266" transform="translate(38.392 40)" fill="none" stroke="#29268c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"></line>
+      <line id="Line_44" x2="16.266" transform="translate(38.392 46.596)" fill="none" stroke="#29268c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"></line>
+      <line id="Line_45" x2="16.266" transform="translate(38.392 53.192)" fill="none" stroke="#29268c" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" opacity="0.4"></line>
+    </g>
+  </g>
+</svg>

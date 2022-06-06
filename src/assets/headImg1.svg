@@ -1,0 +1,9 @@
+<svg viewBox="0 0 60 60" height="60" width="60" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-482 -1396)" id="Group_506">
+    <rect style="isolation: isolate" opacity="0.1" fill="#29268c" transform="translate(482 1396)" rx="10" height="60" width="60" id="Rectangle_363"></rect>
+    <g transform="translate(472 1386)" id="Group_364">
+      <path stroke-width="3" stroke-linejoin="round" stroke="#29268c" fill="none" d="M46.252,37.98l-8.57-4.948a2.333,2.333,0,0,0-3.5,2.02v9.9a2.333,2.333,0,0,0,3.5,2.02l8.57-4.948A2.332,2.332,0,0,0,46.252,37.98Z" id="Path_135"></path>
+      <rect opacity="0.4" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke="#29268c" fill="none" transform="translate(21.072 24.294)" rx="6.998" height="31.411" width="37.856" id="Rectangle_364"></rect>
+    </g>
+  </g>
+</svg>

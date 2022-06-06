@@ -1,0 +1,17 @@
+<svg id="Group_735" xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <rect id="Rectangle_468" width="60" height="60" rx="10" fill="#29268c" opacity="0.1" style="isolation: isolate"></rect>
+  <g id="Group_734" transform="translate(13.424 16.284)">
+    <path id="Path_205" d="M47.734,33.126A6.288,6.288,0,0,0,37,37.572a6.288,6.288,0,1,0-10.734,4.446l10.771,10.7,10.7-10.7a6.287,6.287,0,0,0,0-8.892Z" transform="translate(-23.424 -26.284)" fill="none" stroke="#d92b5a" stroke-linejoin="round" stroke-width="3"></path>
+    <g id="Group_732" transform="translate(22.734 20.716)">
+      <line id="Line_121" x1="10.418" fill="none" stroke="#29268c" stroke-linejoin="round" stroke-width="3" opacity="0.4"></line>
+      <line id="Line_122" x1="10.418" transform="translate(0 5)" fill="none" stroke="#29268c" stroke-linejoin="round" stroke-width="3" opacity="0.4"></line>
+    </g>
+    <line id="Line_123" x2="17.576" transform="translate(15.576 15.716)" fill="none" stroke="#29268c" stroke-linejoin="round" stroke-width="3"></line>
+    <g id="Group_733" transform="translate(1 20.223)">
+      <line id="Line_124" y2="7.209" fill="none" stroke="#29268c" stroke-linejoin="round" stroke-width="3" opacity="0.4"></line>
+      <line id="Line_125" y2="4.209" transform="translate(4.025 2.975)" fill="none" stroke="#29268c" stroke-linejoin="round" stroke-width="3" opacity="0.4"></line>
+    </g>
+    <line id="Line_126" x2="17.748" fill="none" stroke="#29268c" stroke-linejoin="round" stroke-width="3"></line>
+    <line id="Line_127" x1="5.418" transform="translate(27.734)" fill="none" stroke="#d92b5a" stroke-linejoin="round" stroke-width="3" opacity="0.4"></line>
+  </g>
+</svg>
